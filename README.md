@@ -19,15 +19,15 @@ Jason(name of the bot),  is a chatbot designed to help answer queries related to
 
 # Project Structure
 jason-chatbot/
-├── bot.py                # Streamlit web app
-├── chat.py               # Terminal interface
-├── model.py              # Neural network model definition
-├── nltk_utils.py         # NLP utility functions
-├── train.py              # Model training script
-├── intents.json          # Intents and responses
-├── data.pth              # Trained model file
-├── requirements.txt      # Python dependencies
-└── README.md             # Project readme
+1. bot.py                # Streamlit web app
+2. chat.py               # Terminal interface
+3. del.py              # Neural network model definition
+4. nltk_utils.py         # NLP utility functions
+5. train.py              # Model training script
+6. intents.json          # Intents and responses
+7. data.pth              # Trained model file
+8. requirements.txt      # Python dependencies
+9. README.md             # Project readme
 
 # Neural Network Details
 1. Input Size: Number of features in the bag-of-words vector.
